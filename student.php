@@ -1,6 +1,4 @@
 <?php include('head.php'); ?>
-
-<body>
     <div class="container">
         <h3>Result</h3>
         <form action="show_result.php" method="post">

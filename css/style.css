@@ -84,7 +84,8 @@ footer {}
 div.info {
     border: 1px solid lightgray;
     padding: 10px;
-    width: 378px;
+    width: 400px;
+    margin: auto;
 }
 
 table {

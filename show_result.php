@@ -23,7 +23,6 @@ if (mysqli_num_rows($out1) == 0) {
 mysqli_free_result($out1);
 
 ?>
-<body>
     <div class="info">
         <p>Roll No:
             <?php echo "\t" . $roll . "<br>"; ?>
@@ -36,7 +35,7 @@ mysqli_free_result($out1);
         </p>
     </div>
 
-    <table>
+    <table style="margin: auto;">
         <tr>
             <th>Subject</th>
             <th>Number</th>

@@ -3,7 +3,7 @@
 <body>
     <div class="container">
         <h3>Result</h3>
-        <form action="/show2.php" method="post">
+        <form action="show_result.php" method="post">
             <label for="school">Class</label>
             <select name="school">
                 <option value="1">HARIDRAPOTA A. G. A. SECONDARY SCHOOL</option>
